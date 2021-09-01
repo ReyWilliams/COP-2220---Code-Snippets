@@ -1,2 +1,5 @@
 # ignores all .exe files from being committed to repository.
 *.exe
+
+#ingnore mac DS Store files
+.DS_Store
